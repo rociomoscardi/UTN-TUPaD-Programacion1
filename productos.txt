@@ -1,0 +1,3 @@
+Zapatillas,12000,5
+Remera,4500,10
+Campera,18000,3
